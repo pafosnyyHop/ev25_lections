@@ -54,14 +54,22 @@
 # is - сравнивает ячейки памяти двух обьектов
 # is not - отричательное сравнение ячеек памяти
 
-str1 = 'Hello world!'
-print(str1)
-choise = input('Enter the symbol:\n')
+# str1 = 'Hello world!'
+# print(str1)
+# choise = input('Enter the symbol:\n')
 
-if choise in str1:
-    print(f'the symbol: {choise} exist!')
-else:
-    print(f'The symbol: {choise} does not exit!')
+# if choise in str1:
+#     print(f'the symbol: {choise} exist!')
+# else:
+#     print(f'The symbol: {choise} does not exit!')
+
+# year = int(input())
+
+# if year % 4 == 0 and not year / 100 == 0 or year % 400 == 0:
+#     print('YES')
+# else:
+#     print('NO')
+
 
 
 

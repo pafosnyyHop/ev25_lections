@@ -128,16 +128,16 @@ replace(old, new, [count]) - меняем в строке old на new
 # split(разделитель) - дробит строку на несколько частей по разделитнлю 
 # который находится в строке, все части строки сохраняются в тип данных list
 
-text = 'let my speak by my hearth in English! Cause'
-ls = text.split(' ')
-print(ls)
-print(len(ls))
+# text = 'let my speak by my hearth in English! Cause'
+# ls = text.split(' ')
+# print(ls)
+# print(len(ls))
 
 # 'разделитель'.join(iterable(list)) - соединяет строки по разделителю строки,
 #  которые находятся в list 
 
-res =' '.join(ls)
-print(res)
+# res =' '.join(ls)
+# print(res)
 
 
 
