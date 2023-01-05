@@ -56,14 +56,14 @@ user_info = {
 
 #  изменения элементов в словаре 
 
-dict_ = {'name': 'Jake', 'age': 24}
+# dict_ = {'name': 'Jake', 'age': 24}
 
-print(dict_['name'])
-dict_['name'] = 'John'
-dict_['addres'] = 'WinterFell'
-print(dict_)
-dict_.update({'name': 'John', 'addres': 'WinterFell'})
-print(dict_)
+# print(dict_['name'])
+# dict_['name'] = 'John'
+# dict_['addres'] = 'WinterFell'
+# print(dict_)
+# dict_.update({'name': 'John', 'addres': 'WinterFell'})
+# print(dict_)
 
 # ------------------------------------------------------
 
@@ -109,6 +109,8 @@ print(dict_)
 # removed = dict_.popitem()
 # print(removed)
 # print(dict_)
+
+
 
 
 

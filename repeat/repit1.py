@@ -38,6 +38,18 @@
 # res = [list1, list2, list3]
 # print(res)
 
+# list_ = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n']
+# step = 3
+
+# res = []
+# for i in range(step):
+#     list_q = []
+#     for x in range(i, len(list_), step):
+#         list_q.append(list_[x])
+#     res.append(list_q)
+#     list_q = []
+# print(res)
+
 
 #  Создайте список с 3 вложенными списками списками, где внутри должно быть три 0
 # Результат:

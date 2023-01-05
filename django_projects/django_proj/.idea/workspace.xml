@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="877e3dcb-b795-49d7-ad42-2b8f7eb7b099" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../blog_api/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog_api/.idea/blog_api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog_api/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog_api/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog_api/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog_api/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog_api/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog_api/account/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog_api/account/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog_api/account/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog_api/account/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog_api/account/migrations/0002_delete_category.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog_api/account/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog_api/account/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog_api/account/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog_api/account/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog_api/account/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog_api/account/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog_api/blogApi/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog_api/blogApi/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog_api/blogApi/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog_api/blogApi/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog_api/blogApi/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog_api/main/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog_api/main/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog_api/main/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog_api/main/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog_api/main/migrations/0002_post.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog_api/main/migrations/0003_comment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog_api/main/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog_api/main/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog_api/main/permissions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog_api/main/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog_api/main/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog_api/main/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog_api/main/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog_api/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog_api/media/images/Снимок_экрана_от_2022-10-14_15-42-56.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog_api/media/images/Снимок_экрана_от_2022-10-14_15-42-56_d4tzt7s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog_api/media/images/Снимок_экрана_от_2022-10-20_15-01-39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog_api/media/images/Снимок_экрана_от_2022-10-27_20-56-25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog_api/media/images/Снимок_экрана_от_2022-10-29_17-34-45.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog_api/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_model_with_view/main/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_model_with_view/main/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo_api/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo_api/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo_api/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo_api/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo_api/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo_api/.idea/todo_api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo_api/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo_api/main/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo_api/main/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo_api/main/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo_api/main/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo_api/main/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo_api/main/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo_api/main/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo_api/main/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo_api/main/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo_api/main/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo_api/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo_api/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo_api/todoApi/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo_api/todoApi/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo_api/todoApi/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo_api/todoApi/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo_api/todoApi/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../files/CRUD/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../files/CRUD/id.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../files/CRUD/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../files/CRUD/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../files/bootcamp.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../files/files.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../files/files.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../files/forbidden_words.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../files/makers.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../files/makers2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../files/modulejson/lection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../files/modulejson/new.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../files/square.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../files/task6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../functions/func1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../functions/func3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../functions/funk2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../functions/scopes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../repeat/repeat3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../repeat/repeat4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../types/lost_comp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../types/operators/try_except.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gitlessons/intro.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../loops/loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../loops/loops.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../repeat/repit1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../repeat/repit1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../test/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../types/dictinary.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../types/dictinary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../types/tuples.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../types/tuples.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2JXy2foT74EZQwPgISbc7GWpwIp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/hello/Рабочий стол/ev.25/django_projects/django_proj"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="877e3dcb-b795-49d7-ad42-2b8f7eb7b099" name="Changes" comment="" />
+      <created>1672238516977</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672238516977</updated>
+    </task>
+    <servers />
+  </component>
+</project>
